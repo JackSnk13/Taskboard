@@ -15,5 +15,3 @@ Incluye frontend en Angular y backend en .NET 8, diseñado con arquitectura modu
 
 ---
 
-## 📁 Estructura del proyecto
-
